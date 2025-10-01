@@ -6,6 +6,4 @@ public class GitBashDemo
     System.out.println("Welcome Git Bash Demo.");
    }
 
-
-
 }
